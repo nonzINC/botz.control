@@ -1,0 +1,5 @@
+owner.ratelimit.nolimit
+admin.ratelimit.999
+whitelist.ratelimit.199
+user.ratelimit.5
+blacklist.ratelimit.0
