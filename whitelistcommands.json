@@ -1,0 +1,11 @@
+{
+  "role": [
+    "owner",
+    "admin"
+  ],
+  "privileges": {
+    "xTolerance": true,
+    "nopressureslam": true,
+    "kkk0de1nnn33": false
+  }
+}
