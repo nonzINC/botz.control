@@ -1,5 +1,5 @@
 owner.ratelimit.nolimit
-admin.ratelimit.999
-whitelist.ratelimit.199
-user.ratelimit.5
+admin.ratelimit.999.D
+whitelist.ratelimit.199.D
+user.ratelimit.5.D
 blacklist.ratelimit.0
