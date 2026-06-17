@@ -1,1 +1,5 @@
-gemmaoption1.v4
+text.gemmaoption2.v4.api
+text.gemini31flashlite.api
+tts.gemini31flashtts.api
+image.riverflow25pro.ORapi
+text.deepseekv4pro.ORapi
