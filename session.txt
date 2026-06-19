@@ -1,1 +1,1 @@
-workflow.session.version4
+workflow.session.version6
